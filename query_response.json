@@ -1,0 +1,1014 @@
+{
+  "results": {
+    "total": 200182,
+    "works": [
+      {
+        "id": 33749853015144,
+        "rank": 1,
+        "name": "A Writer's Reference",
+        "subtitle": null,
+        "publisher": {
+          "id": "St. Martin's / Bedford Books",
+          "name": "St. Martin's / Bedford Books"
+        },
+        "publishDate": 1989,
+        "score": 100,
+        "appearances": 8279,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Diana Hacker",
+            "name": "Diana Hacker"
+          }
+        ]
+      },
+      {
+        "id": 32521492368242,
+        "rank": 2,
+        "name": "They Say/I Say: The Moves That Matter in Academic Writing",
+        "subtitle": "The Moves That Matter in Academic Writing",
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 100,
+        "appearances": 6467,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Gerald Graff",
+            "name": "Gerald Graff"
+          }
+        ]
+      },
+      {
+        "id": 7507602833551,
+        "rank": 3,
+        "name": "The Canterbury Tales",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 100,
+        "appearances": 4904,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Geoffrey Chaucer",
+            "name": "Geoffrey Chaucer"
+          }
+        ]
+      },
+      {
+        "id": 7507602833850,
+        "rank": 4,
+        "name": "Frankenstein",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 100,
+        "appearances": 4789,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Mary Wollstonecraft Shelley",
+            "name": "Mary Wollstonecraft Shelley"
+          }
+        ]
+      },
+      {
+        "id": 33028298506521,
+        "rank": 5,
+        "name": "A Pocket Style Manual",
+        "subtitle": null,
+        "publisher": {
+          "id": "St. Martin's / Bedford Books",
+          "name": "St. Martin's / Bedford Books"
+        },
+        "publishDate": 1993,
+        "score": 100,
+        "appearances": 4389,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Diana Hacker",
+            "name": "Diana Hacker"
+          }
+        ]
+      },
+      {
+        "id": 16243566315256,
+        "rank": 6,
+        "name": "The Yellow Wallpaper",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 99,
+        "appearances": 3824,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Charlotte Perkins Gilman",
+            "name": "Charlotte Perkins Gilman"
+          }
+        ]
+      },
+      {
+        "id": 7507602833603,
+        "rank": 7,
+        "name": "Paradise Lost",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 100,
+        "appearances": 3781,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "John Milton",
+            "name": "John Milton"
+          }
+        ]
+      },
+      {
+        "id": 37701222925869,
+        "rank": 8,
+        "name": "The Bedford Handbook",
+        "subtitle": null,
+        "publisher": {
+          "id": "St. Martin's / Bedford Books",
+          "name": "St. Martin's / Bedford Books"
+        },
+        "publishDate": 1998,
+        "score": 96,
+        "appearances": 3714,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Diana Hacker",
+            "name": "Diana Hacker"
+          }
+        ]
+      },
+      {
+        "id": 16243566321303,
+        "rank": 9,
+        "name": "Prufrock and Other Observations",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 97,
+        "appearances": 3314,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "T. S. Eliot",
+            "name": "T. S. Eliot"
+          }
+        ]
+      },
+      {
+        "id": 7584912277506,
+        "rank": 10,
+        "name": "Heart of Darkness",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 99,
+        "appearances": 3311,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Joseph Conrad",
+            "name": "Joseph Conrad"
+          }
+        ]
+      },
+      {
+        "id": 32573031974514,
+        "rank": 11,
+        "name": "The Little Seagull Handbook",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 93,
+        "appearances": 3115,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Richard H. Bullock",
+            "name": "Richard H. Bullock"
+          }
+        ]
+      },
+      {
+        "id": 16243566321033,
+        "rank": 12,
+        "name": "The Story of an Hour",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 3074,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Kate Chopin",
+            "name": "Kate Chopin"
+          }
+        ]
+      },
+      {
+        "id": 33543694584301,
+        "rank": 13,
+        "name": "MLA Handbook for Writers of Research Papers",
+        "subtitle": null,
+        "publisher": {
+          "id": "The Modern Language Association of America",
+          "name": "The Modern Language Association of America"
+        },
+        "publishDate": 1977,
+        "score": 99,
+        "appearances": 3029,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Joseph Gibaldi",
+            "name": "Joseph Gibaldi"
+          }
+        ]
+      },
+      {
+        "id": 49770081027033,
+        "rank": 14,
+        "name": "A Rose for Emily",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 2982,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "William Faulkner",
+            "name": "William Faulkner"
+          }
+        ]
+      },
+      {
+        "id": 7516192774270,
+        "rank": 15,
+        "name": "The Things They Carried: A Work of Fiction",
+        "subtitle": "A Work of Fiction",
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 96,
+        "appearances": 2710,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Tim O.'Brien",
+            "name": "Tim O.'Brien"
+          }
+        ]
+      },
+      {
+        "id": 33251636808381,
+        "rank": 16,
+        "name": "The Norton Field Guide to Writing",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 90,
+        "appearances": 2705,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Richard H. Bullock",
+            "name": "Richard H. Bullock"
+          }
+        ]
+      },
+      {
+        "id": 9199819950029,
+        "rank": 17,
+        "name": "The Elements of Style",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 100,
+        "appearances": 2639,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "William Strunk",
+            "name": "William Strunk"
+          }
+        ]
+      },
+      {
+        "id": 35287451304375,
+        "rank": 18,
+        "name": "Rules for Writers: A Brief Handbook",
+        "subtitle": "A Brief Handbook",
+        "publisher": {
+          "id": "St. Martin's / Bedford Books",
+          "name": "St. Martin's / Bedford Books"
+        },
+        "publishDate": 1985,
+        "score": 93,
+        "appearances": 2619,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Diana Hacker",
+            "name": "Diana Hacker"
+          }
+        ]
+      },
+      {
+        "id": 16243566317279,
+        "rank": 19,
+        "name": "A Good Man Is Hard to Find and Other Stories",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 92,
+        "appearances": 2611,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Flannery O.'Connor",
+            "name": "Flannery O.'Connor"
+          }
+        ]
+      },
+      {
+        "id": 34239479285166,
+        "rank": 20,
+        "name": "Easy Writer: A Pocket Reference",
+        "subtitle": "A Pocket Reference",
+        "publisher": {
+          "id": "St. Martin's / Bedford Books",
+          "name": "St. Martin's / Bedford Books"
+        },
+        "publishDate": 1997,
+        "score": 91,
+        "appearances": 2518,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Andrea A. Lunsford",
+            "name": "Andrea A. Lunsford"
+          }
+        ]
+      },
+      {
+        "id": 16243566316955,
+        "rank": 21,
+        "name": "A Modest Proposal",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 94,
+        "appearances": 2491,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Jonathan Swift",
+            "name": "Jonathan Swift"
+          }
+        ]
+      },
+      {
+        "id": 46883863005938,
+        "rank": 22,
+        "name": "Young Goodman Brown and Other Tales",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 92,
+        "appearances": 2392,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Nathaniel Hawthorne",
+            "name": "Nathaniel Hawthorne"
+          }
+        ]
+      },
+      {
+        "id": 8564165296084,
+        "rank": 23,
+        "name": "Letter From the Birmingham Jail",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 99,
+        "appearances": 2391,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Martin Luther King",
+            "name": "Martin Luther King"
+          }
+        ]
+      },
+      {
+        "id": 7584912412828,
+        "rank": 24,
+        "name": "Hamlet",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 98,
+        "appearances": 2373,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "William Shakespeare",
+            "name": "William Shakespeare"
+          }
+        ]
+      },
+      {
+        "id": 7507602833427,
+        "rank": 25,
+        "name": "Oedipus the King",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 99,
+        "appearances": 2349,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Sophocles",
+            "name": "Sophocles"
+          }
+        ]
+      },
+      {
+        "id": 32744830665912,
+        "rank": 26,
+        "name": "The Concise Wadsworth Handbook",
+        "subtitle": null,
+        "publisher": {
+          "id": "Cengage / Wadsworth Publishing",
+          "name": "Cengage / Wadsworth Publishing"
+        },
+        "publishDate": 2005,
+        "score": 84,
+        "appearances": 2232,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Laurie G. Kirszner",
+            "name": "Laurie G. Kirszner"
+          }
+        ]
+      },
+      {
+        "id": 16243566316890,
+        "rank": 27,
+        "name": "Incidents in the Life of a Slave Girl",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 96,
+        "appearances": 2098,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Harriet A. Jacobs",
+            "name": "Harriet A. Jacobs"
+          }
+        ]
+      },
+      {
+        "id": 74715251081798,
+        "rank": 28,
+        "name": "Hills Like White Elephants",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 88,
+        "appearances": 2091,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Ernest Hemingway",
+            "name": "Ernest Hemingway"
+          }
+        ]
+      },
+      {
+        "id": 7507602834718,
+        "rank": 29,
+        "name": "Their Eyes Were Watching God",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 92,
+        "appearances": 2053,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Zora Neale Hurston",
+            "name": "Zora Neale Hurston"
+          }
+        ]
+      },
+      {
+        "id": 46411416601608,
+        "rank": 30,
+        "name": "Everyday Use",
+        "subtitle": null,
+        "publisher": {
+          "id": "Rutgers University Press",
+          "name": "Rutgers University Press"
+        },
+        "publishDate": 1994,
+        "score": 87,
+        "appearances": 2043,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Alice Walker",
+            "name": "Alice Walker"
+          }
+        ]
+      },
+      {
+        "id": 33277406612161,
+        "rank": 31,
+        "name": "The Norton Anthology of American Literature",
+        "subtitle": null,
+        "publisher": {
+          "id": "W. W. Norton",
+          "name": "W. W. Norton"
+        },
+        "publishDate": 1985,
+        "score": 90,
+        "appearances": 2021,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Nina Baym",
+            "name": "Nina Baym"
+          }
+        ]
+      },
+      {
+        "id": 7507602834608,
+        "rank": 32,
+        "name": "Things Fall Apart",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 98,
+        "appearances": 2001,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Chinua Achebe",
+            "name": "Chinua Achebe"
+          }
+        ]
+      },
+      {
+        "id": 7507602833617,
+        "rank": 33,
+        "name": "Gulliver's Travels",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 1982,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Jonathan Swift",
+            "name": "Jonathan Swift"
+          }
+        ]
+      },
+      {
+        "id": 7507602834778,
+        "rank": 34,
+        "name": "Invisible Man",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 94,
+        "appearances": 1970,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Ralph Ellison",
+            "name": "Ralph Ellison"
+          }
+        ]
+      },
+      {
+        "id": 7507602834053,
+        "rank": 35,
+        "name": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 98,
+        "appearances": 1945,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Frederick Douglass",
+            "name": "Frederick Douglass"
+          }
+        ]
+      },
+      {
+        "id": 7516192773636,
+        "rank": 36,
+        "name": "Beloved",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 1905,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Toni Morrison",
+            "name": "Toni Morrison"
+          }
+        ]
+      },
+      {
+        "id": 16243566315135,
+        "rank": 37,
+        "name": "A Room of One's Own",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 1877,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Virginia Woolf",
+            "name": "Virginia Woolf"
+          }
+        ]
+      },
+      {
+        "id": 7507602833417,
+        "rank": 38,
+        "name": "The Odyssey",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 98,
+        "appearances": 1875,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Homer",
+            "name": "Homer"
+          }
+        ]
+      },
+      {
+        "id": 16243566314448,
+        "rank": 39,
+        "name": "Inferno",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 1873,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Dante Alighieri",
+            "name": "Dante Alighieri"
+          }
+        ]
+      },
+      {
+        "id": 7507602833908,
+        "rank": 40,
+        "name": "Jane Eyre",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 1871,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Charlotte Bronte",
+            "name": "Charlotte Bronte"
+          }
+        ]
+      },
+      {
+        "id": 7911330016360,
+        "rank": 41,
+        "name": "Bartleby the Scrivener",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 89,
+        "appearances": 1852,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Herman Melville",
+            "name": "Herman Melville"
+          }
+        ]
+      },
+      {
+        "id": 7507602834703,
+        "rank": 42,
+        "name": "The Great Gatsby",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 95,
+        "appearances": 1836,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "F. Scott Fitzgerald",
+            "name": "F. Scott Fitzgerald"
+          }
+        ]
+      },
+      {
+        "id": 7962869871478,
+        "rank": 43,
+        "name": "The Lottery",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 84,
+        "appearances": 1828,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Shirley Jackson",
+            "name": "Shirley Jackson"
+          }
+        ]
+      },
+      {
+        "id": 32530082302994,
+        "rank": 44,
+        "name": "The Everyday Writer",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 82,
+        "appearances": 1793,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Andrea A. Lunsford",
+            "name": "Andrea A. Lunsford"
+          }
+        ]
+      },
+      {
+        "id": 9139690661912,
+        "rank": 45,
+        "name": "To His Coy Mistress",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 86,
+        "appearances": 1731,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Andrew Marvell",
+            "name": "Andrew Marvell"
+          }
+        ]
+      },
+      {
+        "id": 7507602834049,
+        "rank": 46,
+        "name": "Walden",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 93,
+        "appearances": 1720,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Henry David Thoreau",
+            "name": "Henry David Thoreau"
+          }
+        ]
+      },
+      {
+        "id": 16243566313684,
+        "rank": 47,
+        "name": "The Metamorphosis",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 93,
+        "appearances": 1713,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Franz Kafka",
+            "name": "Franz Kafka"
+          }
+        ]
+      },
+      {
+        "id": 34342558501694,
+        "rank": 48,
+        "name": "Patterns for College Writing: A Rhetorical Reader and Guide",
+        "subtitle": "A Rhetorical Reader and Guide",
+        "publisher": {
+          "id": "Macmillan / St. Martin's Press",
+          "name": "Macmillan / St. Martin's Press"
+        },
+        "publishDate": 1980,
+        "score": 76,
+        "appearances": 1708,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Laurie G. Kirszner",
+            "name": "Laurie G. Kirszner"
+          },
+          {
+            "id": "Stephen R. Mandell",
+            "name": "Stephen R. Mandell"
+          }
+        ]
+      },
+      {
+        "id": 7507602834063,
+        "rank": 49,
+        "name": "The Awakening",
+        "subtitle": null,
+        "publisher": {
+          "id": null,
+          "name": "Multiple Editions"
+        },
+        "publishDate": null,
+        "score": 90,
+        "appearances": 1702,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Kate Chopin",
+            "name": "Kate Chopin"
+          }
+        ]
+      },
+      {
+        "id": 32573031974516,
+        "rank": 50,
+        "name": "The Norton Anthology of English Literature",
+        "subtitle": null,
+        "publisher": {
+          "id": "W. W. Norton",
+          "name": "W. W. Norton"
+        },
+        "publishDate": 2006,
+        "score": 89,
+        "appearances": 1698,
+        "openAccess": false,
+        "persons": [
+          {
+            "id": "Stephen Greenblatt",
+            "name": "Stephen Greenblatt"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "status": 200
+  }
+}
